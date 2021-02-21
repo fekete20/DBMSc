@@ -3,8 +3,8 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_181"/>
-	<classpathentry kind="lib" path="C:/Users/Antal/eclipse-workspace/myBatis_book/mybatis-3.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Antal/eclipse-workspace/myBatis_book/mysql-connector-java-8.0.23.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Antal/eclipse-workspace/myBatis_book/ojdbc6-11.2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antal/git/DBMSc/myBatis_book/mybatis-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antal/git/DBMSc/myBatis_book/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antal/git/DBMSc/myBatis_book/ojdbc6-11.2.0.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
